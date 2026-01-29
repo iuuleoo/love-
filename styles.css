@@ -1,0 +1,38 @@
+.cat {
+  display: block;
+  margin: 0 auto;
+  width: 160px;
+  padding-top: 240px;
+}
+
+.love {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  padding-left: 40px;
+}
+
+.botoes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 18px;
+}
+
+.não {
+  background-color: red;
+  color: white;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.sim {
+  background-color: #2ecc7d;
+  color: white;
+  padding: 20px 40px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
