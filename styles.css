@@ -4,17 +4,11 @@
   width: 160px;
   padding-top: 240px;
 }
-.cat2 {
-  display: block;
-  margin: 0 auto;
-  width: 160px;
-  padding-top: 240px;
-}
 
 .love {
   text-align: center;
   font-family: "Poppins", sans-serif;
-  font-weight: 600;
+  font-weight: 200;
   padding-left: 40px;
 }
 
